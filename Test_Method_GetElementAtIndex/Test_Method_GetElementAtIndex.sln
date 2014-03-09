@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Method_GetElementAtIndex", "Test_Method_GetElementAtIndex\Test_Method_GetElementAtIndex.csproj", "{D151E5D8-04E8-45D8-999F-96F1F47988F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D151E5D8-04E8-45D8-999F-96F1F47988F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D151E5D8-04E8-45D8-999F-96F1F47988F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D151E5D8-04E8-45D8-999F-96F1F47988F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D151E5D8-04E8-45D8-999F-96F1F47988F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
